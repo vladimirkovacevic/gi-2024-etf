@@ -11,3 +11,5 @@ pedjao@etf.bg.ac.rs Teaching assistant Questions about technical details and exe
 
 vladimir.kovacevic@etf.rs Guest lecturer
 
+### Obaveštenja o kursu
+21. mart 2024. U okviru lekcije 4 nalazi se tekst prvog domaćeg zadatka. Rok za izradu je 30. mart, 23:55.
